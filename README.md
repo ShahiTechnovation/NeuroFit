@@ -1,12 +1,23 @@
 # 🧠 NeuroFit – Your Web3 Fitness & Healthcare Companion
 
-**NeuroFit** is a futuristic gamified wellness platform that transforms your health and fitness journey into an immersive experience using animated 3D characters, real-world task tracking, and NFT-based progression rewards.
+*## 👥 Team Members
+
+1. Punit Pal  
+2. Rounak Soni  
+3. Mannu  
+4. Vedant Sanodiya  
+
+---
+
+## 📝 Description
+
+**NeuroFit** is a gamified health and fitness platform that blends futuristic design, Web3 incentives, and interactive 3D avatars to help users achieve their physical and mental goals. It empowers users to take control of their fitness journey with personalized challenges, NFT rewards, and a real-time animated assistant—right from the web or Telegram.
 
 ---
 
 ## 🌟 Live NFT Mint 🎟️
 
-We’ve launched our exclusive **NeuroFit Genesis NFT** on **Magic Eden**. Holders unlock unique in-app avatar skins, level boosts, and premium content.
+We’ve launched our exclusive **Level 1** on **Magic Eden**. Holders unlock unique in-app avatar skins, level boosts, and premium content. (Upcoming Traits)
 
 🔗 [Mint Now on Magic Eden](https://magiceden.io/mint-terminal/base/0x2f71b1e6c98a2090af07d10789348cbfc02b78d0)
 
