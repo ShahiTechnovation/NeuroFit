@@ -21,6 +21,15 @@ We’ve launched our exclusive **Level 1** on **Magic Eden**. Holders unlock uni
 
 🔗 [Mint Now on Magic Eden](https://magiceden.io/mint-terminal/base/0x2f71b1e6c98a2090af07d10789348cbfc02b78d0)
 
+## 💰 Revenue Model
+
+Our project includes the following monetization streams:
+
+- **NFT Minting Royalties**: A fixed percentage (e.g., 5–10%) of each NFT mint or resale is automatically directed to the project treasury or owner wallet.
+- **Premium Features** - Premium Features hold a great potential in our project because we directly deal with the user's personal life and we have all the data regarding his lifestyle and routine, so we can add up things like a personal AI assistant that keeps all of that data in context and then it can guide you accordingly 
+- **Premium Features** : Access to advanced utilities (AI tools, boosters, exclusive content) may be gated via subscription or one-time NFT-based unlocks.
+
+This structure ensures sustainability while delivering value to the user
 ---
 
 ## 🤖 Telegram Bot Assistant
