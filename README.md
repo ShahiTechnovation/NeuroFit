@@ -1,6 +1,6 @@
 # 🧠 NeuroFit – Your Web3 Fitness & Healthcare Companion
 
-*## 👥 Team Members
+ 👥 Team Members
 
 1. Punit Pal  
 2. Rounak Soni  
