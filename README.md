@@ -1,30 +1,67 @@
-# Fitness gamification project
+# 🧠 NeuroFit – Your Web3 Fitness & Healthcare Companion
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+**NeuroFit** is a futuristic gamified wellness platform that transforms your health and fitness journey into an immersive experience using animated 3D characters, real-world task tracking, and NFT-based progression rewards.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/nothingtechnovation-9156s-projects/v0-fitness-gamification-project)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/ZDLxHI3PFvZ)
+---
 
-## Overview
+## 🌟 Live NFT Mint 🎟️
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+We’ve launched our exclusive **NeuroFit Genesis NFT** on **Magic Eden**. Holders unlock unique in-app avatar skins, level boosts, and premium content.
 
-## Deployment
+🔗 [Mint Now on Magic Eden](https://magiceden.io/mint-terminal/base/0x2f71b1e6c98a2090af07d10789348cbfc02b78d0)
 
-Your project is live at:
+---
 
-**[https://vercel.com/nothingtechnovation-9156s-projects/v0-fitness-gamification-project](https://vercel.com/nothingtechnovation-9156s-projects/v0-fitness-gamification-project)**
+## 🤖 Telegram Bot Assistant
 
-## Build your app
+Stay consistent on the go with the **NeuroFit Telegram Bot**. Get daily reminders, track your XP, complete challenges, and interact with your character—all from Telegram.
 
-Continue building your app on:
+👉 [Launch Neuro3Fit Bot](https://t.me/Neuro3Fit_bot)
 
-**[https://v0.dev/chat/projects/ZDLxHI3PFvZ](https://v0.dev/chat/projects/ZDLxHI3PFvZ)**
+---
 
-## How It Works
+## 🚀 Core Features
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+- 🎮 **Gamified Progress**  
+  Complete daily health tasks and goals to earn XP and upgrade your animated avatar.
+
+- 🧍‍♂️ **3D Companion Characters**  
+  Choose from characters like BGMI Soldier, Cyberpunk Hacker, Doodle Beast, and more.
+
+- 📊 **Preset Life Templates**  
+  - 🧪 JEE Aspirant Mode  
+  - 🧘 Wellness/Zen Mode  
+  - 🏋️ Muscle Building  
+  - 📚 Study + Fitness Balance  
+
+- 🩺 **Integrated Health Logging**  
+  Track hydration, workouts, sleep, step count, and mental health logs.
+
+- 💎 **NFT Rewards System**  
+  Level up to unlock new NFT badges and skins, claimable via Magic Eden.
+
+- 📱 **Interactive Home Screen**  
+  3D animated homepage that reflects your progress in real-time.
+
+- 🧠 **AI-Driven Recommendations** *(coming soon)*  
+  Personalized health tips based on your performance, patterns, and goal.
+
+---
+
+## 🌐 Tech Stack
+
+- **Frontend**: React + Three.js + TailwindCSS  
+- **Backend**: Node.js / Firebase  
+- **3D Models**: GLTF with animation triggers  
+- **Web3**: NFT Minting (Base Chain + Magic Eden)  
+- **Telegram Bot**: Python + Telebot + Firebase sync
+
+---
+
+## 📦 Getting Started
+
+```bash
+git clone https://github.com/ShahiTechnovation/neurofit.git
+cd neurofit
+npm install
+npm run dev
